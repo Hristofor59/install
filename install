@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мениджър на Пароли</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Другото съдържание на сайта -->
+
+    <section id="download-section">
+        <h2>Изтегли приложението</h2>
+        <a href="https://raw.githubusercontent.com/yourusername/yourrepo/main/application.py" download="application.py">
+            <button>Изтегли</button>
+        </a>
+    </section>
+    
+    <script src="script.js"></script>
+</body>
+</html>
